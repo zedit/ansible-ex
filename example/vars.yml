@@ -1,0 +1,8 @@
+
+stack_name: mean
+swarm_git_repo: <<stack_url>>
+branch_name: master
+docker_registry_password_auth: true
+docker_registry_user: myuser
+docker_registry_url: url
+docker_registry_password: mypass

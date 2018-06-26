@@ -1,0 +1,7 @@
+---
+# vars file for docker-swarm
+
+user_name: man
+user_shell: /bin/bash
+user_groups: admin
+user_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOe9TkGUAI2NsKc+z+8FettGzUmrqO/8yrv4rgYEQNRWnC2Op0n6MCZsDyiOOlpi9nHvaG+hEXDVVmB605p+sHD39mFCndyxLeMB2kPq/tiNcYLndhi3S0sN24O8kJwDlpCvTXbqrSnbAHdfTyOmI3lgD2jmnhfYHxYASvUooiIrNVFbQkUKfIrFRqXb/4HSAbIxfs9zQhnyNu7f6vLwAUZ4HIuaNbYzxLMkskG2WXo/gHWeA4dw4BOYwhvGdBEaSzlYVLIX4MD7ItJNbmSXaX2jMh8HBQCsGQG6+nNJ0haheLwBxQ/lCKwCi3PP+w1eRRi1TGyYPMZFz3IOpTvK8d

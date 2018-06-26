@@ -1,0 +1,6 @@
+---
+- name: Set authorized key took from file
+  authorized_key:
+    user: "{{ user_name }}"
+    state: present
+    key: "{{  user_key }} "

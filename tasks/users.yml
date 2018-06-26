@@ -1,0 +1,7 @@
+---
+- name: Add the user "{{ user_name }}" with a bash shell, appending the group "{{ user_groups }}" to the user's groups
+  user:
+    name: "{{ user_name }}"
+    shell: "{{ user_shell }}"
+    groups: "{{ user_groups }}"
+    append: yes

@@ -1,0 +1,5 @@
+- hosts: ansible_test
+  roles: 
+    - ../
+  tasks:
+    - 
